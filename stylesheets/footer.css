@@ -1,0 +1,53 @@
+/* line 1, ../sass/footer.scss */
+footer {
+  background-color: #e0e0e0;
+  padding: 30px;
+  text-align: center;
+  font-family: Dosis;
+  margin-top: 10em;
+}
+/* line 7, ../sass/footer.scss */
+footer p {
+  font-size: 1.3em;
+  margin-bottom: 2em;
+}
+/* line 11, ../sass/footer.scss */
+footer .container {
+  max-width: 500px;
+}
+/* line 14, ../sass/footer.scss */
+footer .share-bar {
+  margin-bottom: 3em;
+}
+/* line 16, ../sass/footer.scss */
+footer .share-bar__button {
+  color: #fff;
+  padding: 5px;
+  font-size: 1em;
+}
+/* line 20, ../sass/footer.scss */
+footer .share-bar__button .fa {
+  padding: 15px 20px;
+  margin-right: 10px;
+  font-size: 25px;
+}
+/* line 26, ../sass/footer.scss */
+footer .share-bar__button.facebook .fa {
+  background-color: #4a5372;
+}
+/* line 31, ../sass/footer.scss */
+footer .share-bar__button.twitter .fa {
+  background-color: #5485ae;
+}
+/* line 36, ../sass/footer.scss */
+footer .share-bar__button.instagram .fa {
+  background-color: #367f6e;
+}
+/* line 41, ../sass/footer.scss */
+footer .share-bar__button.pinterest .fa {
+  background-color: #86364b;
+}
+/* line 46, ../sass/footer.scss */
+footer .share-bar__button.youtube .fa {
+  background-color: #9f5884;
+}

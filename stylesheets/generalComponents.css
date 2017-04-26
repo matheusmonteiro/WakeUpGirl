@@ -1,0 +1,31 @@
+/* line 1, ../sass/generalComponents.scss */
+.navigation-list {
+  margin: 20px 0;
+}
+/* line 3, ../sass/generalComponents.scss */
+.navigation-list ul {
+  padding: 0;
+}
+/* line 5, ../sass/generalComponents.scss */
+.navigation-list ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 30px;
+  font-size: 1.3em;
+  color: #b5b5b5;
+  width: 19%;
+}
+/* line 15, ../sass/generalComponents.scss */
+.navigation-list ul li strong {
+  color: #000;
+}
+/* line 17, ../sass/generalComponents.scss */
+.navigation-list ul li strong .arrow {
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+  border-left: 7px solid #000;
+  display: inline-block;
+  margin-left: 10px;
+}

@@ -1,0 +1,10 @@
+@import "compass/mixins";
+body{
+	font-family: Dosis, sans-serif, clibri;
+}
+
+.container{
+	@include tablet{
+		display: none;
+	}
+}

@@ -1,0 +1,11 @@
+/* line 2, ../sass/layout.scss */
+body {
+  font-family: Dosis, sans-serif, clibri;
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  /* line 6, ../sass/layout.scss */
+  .container {
+    display: none;
+  }
+}
